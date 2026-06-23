@@ -564,7 +564,7 @@ export default function HomePage() {
               Browse by category
             </motion.p>
             <motion.h2 variants={fadeInUp} className="text-4xl md:text-5xl font-extrabold tracking-tight text-[#1a1a1a] text-balance">
-              Find your perfect match
+              Find your perfect
             </motion.h2>
           </motion.div>
 
