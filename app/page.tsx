@@ -769,7 +769,7 @@ export default function HomePage() {
                 transition={{ duration: 0.3, ease: "easeOut" }}
                 className="bg-white rounded-2xl p-6 border border-black/5 shadow-[0_1px_2px_rgba(0,0,0,0.04),0_8px_24px_-8px_rgba(0,0,0,0.08)]"
               >
-                <div className="flex items-center gap-0.5 mb-4">
+                <div className="flex items-center gap-0.5 mb-4" style={{ color: "#0a5ee6" }}>
                   {[1, 2, 3, 4, 5].map((s) => (
                     <Star key={s} className="w-4 h-4 fill-[#f97316] text-[#f97316]" />
                   ))}
