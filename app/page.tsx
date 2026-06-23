@@ -748,7 +748,7 @@ export default function HomePage() {
             <motion.h2 variants={fadeInUp} className="text-4xl md:text-5xl font-extrabold tracking-tight text-[#1a1a1a] text-balance">
               Why shoppers choose Lumio
             </motion.h2>
-            <motion.p variants={fadeInUp} className="mt-4 text-gray-500 max-w-xl mx-auto leading-relaxed text-pretty">
+            <motion.p variants={fadeInUp} className="mt-4 text-gray-500 max-w-xl mx-auto leading-relaxed text-pretty" style={{ color: "#3368d1" }}>
               Over 40,000 customers trust Lumio for quality products, fast delivery, and a shopping experience that feels genuinely different.
             </motion.p>
           </motion.div>
