@@ -676,7 +676,7 @@ export default function HomePage() {
                 Flash deals
               </motion.h2>
               <motion.p variants={fadeInUp} className="mt-2 text-white/50 text-sm">
-                Prices drop fast. Grab them before they're gone.
+                Prices drop fast. Grab them before they're gone. And enjoy 
               </motion.p>
             </div>
           </motion.div>
