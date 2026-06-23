@@ -467,7 +467,7 @@ export default function HomePage() {
               variants={slideInRight}
               className="relative hidden lg:block"
             >
-              <div className="relative w-full aspect-square max-w-lg ml-auto">
+              <div className="relative w-full aspect-square max-w-lg ml-auto" style={{ color: "#1869ec" }}>
                 {/* Main image */}
                 <motion.div
                   whileHover={{ y: -8 }}
