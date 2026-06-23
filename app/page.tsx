@@ -622,7 +622,7 @@ export default function HomePage() {
               <motion.p variants={fadeInUp} className="text-xs font-semibold uppercase tracking-widest text-[#f97316] mb-3">
                 Curated for you
               </motion.p>
-              <motion.h2 variants={fadeInUp} className="text-4xl md:text-5xl font-extrabold tracking-tight text-[#1a1a1a] text-balance">
+              <motion.h2 variants={fadeInUp} className="text-4xl md:text-5xl font-extrabold tracking-tight text-[#1a1a1a] text-balance" style={{ color: "#f20d0d" }}>
                 Featured products
               </motion.h2>
             </div>
